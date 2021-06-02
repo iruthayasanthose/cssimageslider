@@ -1,6 +1,6 @@
 # cssimageslider
 > Hello guys, CSS Image Slider, the name itself has the defenition of this repository. It was an image slider developed in CSS technology only. Used as a part of a website to showcase your media in slider model.
-> [_VIEW_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> [_VIEW DEMO_](https://iruthayasanthose.github.io/cssimageslider/).
 
 ## Table of Contents
 * [General Info](#general-information)
